@@ -15,7 +15,7 @@ const service = {
           price,
           term,
           latitude,
-          longitude
+          longitude 
         },
       });
 
